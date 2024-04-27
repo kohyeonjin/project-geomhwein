@@ -40,20 +40,20 @@
 상세페이지
 ------------
 ### 커뮤니티 페이지
-![image](https://github.com/kohyeonjin/project-geomhwein/assets/154486596/d96ef8ce-6152-4ee2-8811-f5b17e1ee5d4)
+![image](https://github.com/kohyeonjin/project-geomhwein/assets/154486596/ca823b57-21eb-4853-8979-8bc452181155)
 - 커뮤니티 페이지 입니다.
 - 최신순, 댓글순, 조회순 페이지 필터링이 가능하고, 검색을 통해 제목,작성자로 검색이 가능합니다
 - 페이지네이션 기능
 - 등록하기 버튼을 누르면 등록화면으로 갑니다.
 
 ### 커뮤니티 등록
-![image](https://github.com/kohyeonjin/project-geomhwein/assets/154486596/a6011964-1cf4-40dc-8c46-4e44efc9ce16)
+![image](https://github.com/kohyeonjin/project-geomhwein/assets/154486596/5da815bc-6eea-48d9-8e10-4eab04e6fe5f)
 - 커뮤니티 등록 페이지입니다.
 - 작성자는 로그인한 사용자 시큐리티 권한에서 가져와서 사용했습니다.
 - 파일업로드가 가능하고, 업로드 시 밑에 파일명이 보이게 했습니다.
 
 ### 커뮤니티 상세
-![image](https://github.com/kohyeonjin/project-geomhwein/assets/154486596/87db2d8b-2ed6-4948-8d0b-2c2d6adcc6bd)
+![image](https://github.com/kohyeonjin/project-geomhwein/assets/154486596/389e58e6-b4d3-4b98-bc93-86f1d92aceee)
 
 - 커뮤니티 상세페이지 입니다.
 - 조회수는 쿠키로 중복처리를 방지했습니다. (단순한 페이지 조회 번호를 쿠키로 사용해서 보안에 상관없다고 생각해 쿠키로 사용했습니다.)
