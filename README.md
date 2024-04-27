@@ -5,7 +5,7 @@
 - 프로젝트 소개
 - 개발기간
 - 개발환경
-- 배포주소
+- 배포
 - 역할
 - 상세페이지
 - 프로젝트 후기
@@ -25,10 +25,10 @@
 - HTTP & CSS , JavaScript, JQuery, BootStrap
 - Java, StringBoot, Thymeleaf, MyBatis
 - MySql, RDS
-- AWS EC2(ubuntu), Putty
+- AWS EC2, Putty
 - Github
   
-배포주소
+배포
 ------------
 15.164.10.145:8282/
 
