@@ -40,20 +40,20 @@
 상세페이지
 ------------
 ### 커뮤니티 페이지
-![image](https://github.com/kohyeonjin/project-wizian/assets/154486596/37fd03b7-c61d-4dd5-9a26-2aceb1f21f35)
+![image](https://github.com/kohyeonjin/project-geomhwein/assets/154486596/d96ef8ce-6152-4ee2-8811-f5b17e1ee5d4)
 - 커뮤니티 페이지 입니다.
 - 최신순, 댓글순, 조회순 페이지 필터링이 가능하고, 검색을 통해 제목,작성자로 검색이 가능합니다
 - 페이지네이션 기능
 - 등록하기 버튼을 누르면 등록화면으로 갑니다.
 
 ### 커뮤니티 등록
-![image](https://github.com/kohyeonjin/project-wizian/assets/154486596/243cf82e-ed26-4c18-bc26-a99437593f45)
+![image](https://github.com/kohyeonjin/project-geomhwein/assets/154486596/a6011964-1cf4-40dc-8c46-4e44efc9ce16)
 - 커뮤니티 등록 페이지입니다.
 - 작성자는 로그인한 사용자 시큐리티 권한에서 가져와서 사용했습니다.
 - 파일업로드가 가능하고, 업로드 시 밑에 파일명이 보이게 했습니다.
 
 ### 커뮤니티 상세
-![image](https://github.com/kohyeonjin/project-wizian/assets/154486596/89951a46-1c8d-4ea0-8cc2-a1e083aa838b)
+![image](https://github.com/kohyeonjin/project-geomhwein/assets/154486596/87db2d8b-2ed6-4948-8d0b-2c2d6adcc6bd)
 
 - 커뮤니티 상세페이지 입니다.
 - 조회수는 쿠키로 중복처리를 방지했습니다. (단순한 페이지 조회 번호를 쿠키로 사용해서 보안에 상관없다고 생각해 쿠키로 사용했습니다.)
@@ -64,19 +64,19 @@
 - 업로드한 파일이 보이고 클릭시 다운로드가 가능합니다.
 
 ### 댓글
-![image](https://github.com/kohyeonjin/project-wizian/assets/154486596/c55e1c41-cbee-41e1-a179-fffb2629f0a7)
+![image](https://github.com/kohyeonjin/project-geomhwein/assets/154486596/f16d062b-ca93-41bb-ab05-783d96256ae7)
 
 - 댓글이 작성한 페이지 입니다.
 - 댓글에는 답글이 작성가능합니다 (답글 작성시 부모댓글을 기억)
 - 댓글 삭제시 답글이 있을경우 '삭제된 댓글 처리' (삭제 시 답글이 있을 경우 댓글상태를 변경)
 
 ### 그룹 신청 내역
-![image](https://github.com/kohyeonjin/project-wizian/assets/154486596/57883b6d-45df-4f3a-bca1-f013bd5dca3b)
+![image](https://github.com/kohyeonjin/project-geomhwein/assets/154486596/d556d11a-ccf8-4803-92be-186048e3fa1f)
 
 - 학습자가 신청한 그룹 신청 내역입니다. 교육자가 승낙시 'Y'로 변경이 되고 'Y'일 경우 그룹상세페이지로 접근이 가능합니다.
 
 ### 그룹 상세
-![image](https://github.com/kohyeonjin/project-wizian/assets/154486596/bb89acd7-33f7-4e1a-9682-2fc36811a7e1)
+![image](https://github.com/kohyeonjin/project-geomhwein/assets/154486596/1d8ec604-07f6-4f16-a99b-b38b5b1efc70)
 
 - 그룹 상세 정보와 숙제, 자신의 질문내역을 확인이 가능합니다.
 
